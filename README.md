@@ -1,3 +1,8 @@
+Fully desgining and implementing  Static web page figma to Angular project
+
+![Test Project - HTML _ SCSS _ TAILWIND UI](https://github.com/user-attachments/assets/e3788464-0de8-4805-93ba-410d3f4bb448)
+
+
 # Creatiwise
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.2.
